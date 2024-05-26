@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nana Akwasi Asare</h1>
-<h3 align="center">A passionate Data scientist and Machine learning Engineer from From Ghana</h3>
+<h3 align="center">A passionate Data scientist and Machine learning Engineer  From Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasare34&label=Profile%20views&color=0e75b6&style=flat" alt="nasare34" /> </p>
 
