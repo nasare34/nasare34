@@ -5,3 +5,6 @@
 📊 Additional Skills: SQL, Data Analytics
 
 Explore my repositories to discover innovative projects and contributions at the forefront of AI-driven healthcare solutions. Let's collaborate and innovate for a healthier tomorrow! Feel free to reach out for discussions, collaborations, or inquiries.
+
+Email: nasare34@yahoo.com
+Whatsapp: +233509127511
