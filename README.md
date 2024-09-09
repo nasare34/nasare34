@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and AI projects**
 
-- 🤝 I’m looking for help 
+- 🤝 I’m looking for Backend, Data scientist Machine learning engineer Related job 
 
 - 👨‍💻 All of my projects are available at [https://github.com/nasare34?tab=repositories](https://github.com/nasare34?tab=repositories)
 
