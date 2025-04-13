@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nana Akwasi Asare</h1>
-<h3 align="center">Machine Learning Engineer & Researcher focused on AI in Healthcare</h3>
+<h1 align="center">Hi 👋, I'm  Akwasi Asare</h1>
+<h3 align="center">Machine Learning Engineer & Researcher focused on Natural Language Processing and AI in Healthcare</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasare34&label=Profile%20views&color=0e75b6&style=flat" alt="nasare34" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🤝 Open to collaborations on **AI, machine learning, and healthcare-related projects**.
 
-- 👀 I'm currently looking for roles in **Backend Development**, **Data Science**, or **Machine Learning Engineering**.
+- 👀 I'm currently looking for roles in **Backend Development**, **Data Science**, **Research** or **Machine Learning Engineering**.
 
 - 💼 Check out my work on GitHub: [nasare34](https://github.com/nasare34?tab=repositories)
 
