@@ -8,7 +8,7 @@
 
 - 🤝 Open to collaborations on **AI, machine learning, and healthcare-related projects**.
 
-- 💼 Check out my work on GitHub: [nasare34](https://github.com/nasare34?tab=repositories)
+- 💼 Check out my Portfolio: [portfolio](http://nasare34.github.io/)
 
 - 📝 I write about tech and research here: [Medium](https://medium.com/@nanaasare_72121/bridging-the-gap-unraveling-the-challenges-that-keep-africa-from-the-ai-and-machine-learning-516b1c21dc60?source=social.linkedin)
 
