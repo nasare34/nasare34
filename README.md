@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm  Akwasi Asare</h1>
-<h3 align="center">Machine Learning Engineer & Researcher focused on Natural Language Processing and AI in Healthcare</h3>
+<h3 align="center">Machine Learning & AI Research Engineer focused on Natural Language Processing and AI in Healthcare</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasare34&label=Profile%20views&color=0e75b6&style=flat" alt="nasare34" /> </p>
 
-- 🔬 I currently work as a **Machine Learning Researcher and Engineer** at **Ghana NLP**, where I contribute to AI projects that support under-resourced languages.  
-  I'm also leading the development of a **document translation app** to test the real-world use cases of **Khaya AI**.
+- 🔬 I currently work as a **achine Learning & AI Research Engineer ** at **Ghana NLP and Khaya AI**, where I contribute to AI projects that support under-resourced languages.  
 
-- 🧠 I'm actively working on projects focused on **AI in healthcare**, including **enhancing polyp detection and segmentation in gastrointestinal endoscopy** using deep learning algorithms on the **Kvasir dataset**.
-
-- 🖼️ I'm also exploring **SwinUNetR** for image processing and segmentation tasks in medical imaging.
 
 - 🤝 Open to collaborations on **AI, machine learning, and healthcare-related projects**.
-
-- 👀 I'm currently looking for roles in **Backend Development**, **Data Science**, **Research** or **Machine Learning Engineering**.
 
 - 💼 Check out my work on GitHub: [nasare34](https://github.com/nasare34?tab=repositories)
 
