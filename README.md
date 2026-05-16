@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasare34&label=Profile%20views&color=0e75b6&style=flat" alt="nasare34" /> </p>
 
-- 🔬 I currently work as a **achine Learning & AI Research Engineer **at **Ghana NLP and Khaya AI**, where I contribute to AI projects that support under-resourced languages.  
+- 🔬 I currently work as a ** Machine Learning & AI Research Engineer **at **Ghana NLP and Khaya AI**, where I contribute to AI projects that support under-resourced languages.  
 
 
 - 🤝 Open to collaborations on **AI, machine learning, and healthcare-related projects**.
